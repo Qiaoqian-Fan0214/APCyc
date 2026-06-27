@@ -737,8 +737,7 @@ function DenoisingDemos() {
     {
       pdb: "1t4f",
       src: DENOISING_1T4F_URL,
-      caption:
-        "Full 388-step denoising rollout converging to a stable cyclic peptide for pocket 1t4f.",
+      caption: "Denoising process for pocket 1t4f.",
     },
   ];
   const [active, setActive] = useState(0);
