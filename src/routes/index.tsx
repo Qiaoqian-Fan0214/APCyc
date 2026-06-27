@@ -26,7 +26,7 @@ export const Route = createFileRoute("/")({
 const assetUrl = (path: string) => `${import.meta.env.BASE_URL}${path}`;
 
 const PAPER_URL = assetUrl("assets/apcyc/paper.pdf");
-const CODE_URL = "https://github.com/Qiaoqian-Fan0214/apcyc-site";
+const CODE_URL = "https://github.com/Qiaoqian-Fan0214/APCyc";
 const TEASER_URL = assetUrl("assets/apcyc/teaser.png");
 const OVERVIEW_URL = assetUrl("assets/apcyc/overview.png");
 const INJECTION_URL = assetUrl("assets/apcyc/injection.png");

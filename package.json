@@ -1,7 +1,7 @@
 {
-  "name": "apcyc-site",
+  "name": "apcyc",
   "private": true,
-  "homepage": "https://qiaoqian-fan0214.github.io/apcyc-site/",
+  "homepage": "https://qiaoqian-fan0214.github.io/APCyc/",
   "sideEffects": false,
   "type": "module",
   "scripts": {
